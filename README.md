@@ -14,31 +14,31 @@ The Loan Prediction Dataset consists of 615 records and 13 columns. This dataset
 
 # Column Description:
 
-Loan_ID                Unique Loan ID
+Loan_ID            -        Unique Loan ID
 
-Gender                 MALE or FEMALE 
+Gender             -        MALE or FEMALE 
 
-Married                Whether the Applicant is Married or Not
+Married            -        Whether the Applicant is Married or Not
 
-Dependents             Number of Dependents the Applicant shares with
+Dependents         -        Number of Dependents the Applicant shares with
 
-Education              Whether the Applicant is Graduate or Not Graduate
+Education          -        Whether the Applicant is Graduate or Not Graduate
 
-Self_Employed          The Applicant is Self Employed or Not
+Self_Employed      -        The Applicant is Self Employed or Not
 
-ApplicantIncome        Income of an Applicant  
+ApplicantIncome    -        Income of an Applicant  
 
-CoapplicantIncome      Income of the Dependent
+CoapplicantIncome  -        Income of the Dependent
 
-LoanAmount             Loan amount in thousands of dollars
+LoanAmount         -        Loan amount in thousands of dollars
 
-Loan_Amount_Term       Term of loan in months
+Loan_Amount_Term   -        Term of loan in months
 
-Credit_History         credit history meets guidelines yes or no
+Credit_History     -        credit history meets guidelines yes or no
 
-Property_Area          Urban/ Semi Urban/ Rural 
+Property_Area      -        Urban/ Semi Urban/ Rural 
 
-Loan_Status           Loan approved (Y/N) this is the target variable
+Loan_Status        -        Loan approved (Y/N) this is the target variable
 
 
 # Algorithms Handled
