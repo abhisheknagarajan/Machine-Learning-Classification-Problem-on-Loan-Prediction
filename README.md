@@ -14,31 +14,31 @@ The Loan Prediction Dataset consists of 615 records and 13 columns. This dataset
 
 # Column Description:
 
-Loan_ID                object 
+Loan_ID                Unique Loan ID
 
-Gender                 object 
+Gender                 MALE or FEMALE 
 
-Married                object 
+Married                Whether the Applicant is Married or Not
 
-Dependents             object 
+Dependents             Number of Dependents the Applicant shares with
 
-Education              object 
+Education              Whether the Applicant is Graduate or Not Graduate
 
-Self_Employed          object 
+Self_Employed          The Applicant is Self Employed or Not
 
-ApplicantIncome        int64  
+ApplicantIncome        Income of an Applicant  
 
-CoapplicantIncome      float64
+CoapplicantIncome      Income of the Dependent
 
-LoanAmount             float64
+LoanAmount             Loan amount in thousands of dollars
 
-Loan_Amount_Term       float64
+Loan_Amount_Term       Term of loan in months
 
-Credit_History         float64
+Credit_History         credit history meets guidelines yes or no
 
-Property_Area          object 
+Property_Area          Urban/ Semi Urban/ Rural 
 
-Loan_Status            object 
+Loan_Status           Loan approved (Y/N) this is the target variable
 
 
 # Task Completed:
@@ -135,4 +135,4 @@ stacking Classifier
 
 <h4>Notebook Link : <a href='https://github.com/abhisheknagarajan/Machine-Learning-Classification-Problem-on-Loan-Prediction/blob/main/Machine%20Learning%20Classification%20Problem%20on%20Loan%20Prediction.ipynb'>Machine_Learning_Classification_Problem_on_Loan_Prediction.ipynb</a></h4>
 
-<h4>Dataset Link : <a href='https://github.com/abhisheknagarajan/Machine-Learning-Classification-Problem-on-Loan-Prediction/blob/main/Loan%20Predictions%20Dataset.csv'>Loan _Prediction.csv.ipynb</a></h4>
+<h4>Dataset Link : <a href='https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset'>Loan _Prediction.csv.ipynb</a></h4>
