@@ -15,17 +15,29 @@ The Loan Prediction Dataset consists of 615 records and 13 columns. This dataset
 # Column Description:
 
 Loan_ID                object 
+
 Gender                 object 
+
 Married                object 
+
 Dependents             object 
+
 Education              object 
+
 Self_Employed          object 
+
 ApplicantIncome        int64  
+
 CoapplicantIncome      float64
+
 LoanAmount             float64
+
 Loan_Amount_Term       float64
+
 Credit_History         float64
+
 Property_Area          object 
+
 Loan_Status            object 
 
 
